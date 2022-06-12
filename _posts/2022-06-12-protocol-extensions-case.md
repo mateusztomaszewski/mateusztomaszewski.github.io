@@ -11,6 +11,7 @@ categories: jekyll update
 protocol OneMethodProtocol
     func method1()
 }
+
 extension OneMethodProtocol {
     func method1() {
         print("| method1 | OneMetodProtocol |")
@@ -19,6 +20,7 @@ extension OneMethodProtocol {
         print("| method2 | OneMetodProtocol |")
     }
 }
+
 struct Struct: OneMethodProtocol {
     func method1() {
         print("| method1 | Struct           |")
@@ -49,6 +51,7 @@ protocoledStruct.method2() // | method2 | OneMetodProtocol |
 protocol OneMethodProtocol {
     func method1(text: String)
 }
+
 extension OneMethodProtocol {
     func method1(text: String = "default") {
         print("| method1 | OneMethodProtocol | \(text) |")
