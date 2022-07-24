@@ -1,13 +1,11 @@
-{
-    "restaurants": [
-        {
-            "id": 1,
-            "name": "Test Name",
-            "address": "Test Address",
-            "position": {
-                "latitude": 40.713829,
-                "longitude": -73.989667
-            }
+[
+    {
+        "id": 1,
+        "name": "Test Name",
+        "address": "Test Address",
+        "position": {
+            "latitude": 40.713829,
+            "longitude": -73.989667
         }
-    ]
-}
+    }
+]
