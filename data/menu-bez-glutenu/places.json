@@ -1,8 +1,22 @@
 [
     {
         "id": 1,
-        "name": "Test Name 1",
+        "name": "U Królika",
         "address": "Test Address 1",
+        "logoUrl": "https://menubezglutenu.pl/wp-content/uploads/2019/12/logo-1-134x134.jpg",
+        "imageUrls": [
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-2-kopiowanie-1291x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-kopiowanie-1080x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-hummus-chleb-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-6-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-2-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-3-kopiowanie-811x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-5-kopiowanie-788x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1166-2-kopiowanie-969x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1188-kopiowanie-1021x1000.jpg"
+        ],
         "position": {
             "latitude": 40.713829,
             "longitude": -73.989667
@@ -12,6 +26,20 @@
         "id": 2,
         "name": "Test Name 2",
         "address": "Test Address 2",
+        "logoUrl": "https://menubezglutenu.pl/wp-content/uploads/2019/12/logo-1-134x134.jpg",
+        "imageUrls": [
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-2-kopiowanie-1291x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-kopiowanie-1080x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-hummus-chleb-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-6-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-2-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-3-kopiowanie-811x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-5-kopiowanie-788x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1166-2-kopiowanie-969x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1188-kopiowanie-1021x1000.jpg"
+        ],
         "position": {
             "latitude": 40.713829,
             "longitude": -73.989667
@@ -21,6 +49,20 @@
         "id": 3,
         "name": "Test Name 3",
         "address": "Test Address 3",
+        "logoUrl": "https://menubezglutenu.pl/wp-content/uploads/2019/12/logo-1-134x134.jpg",
+        "imageUrls": [
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-2-kopiowanie-1291x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-kopiowanie-1080x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-hummus-chleb-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-6-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-2-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-3-kopiowanie-811x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-5-kopiowanie-788x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1166-2-kopiowanie-969x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1188-kopiowanie-1021x1000.jpg"
+        ],
         "position": {
             "latitude": 40.713829,
             "longitude": -73.989667
@@ -30,6 +72,20 @@
         "id": 4,
         "name": "Test Name 4",
         "address": "Test Address 4",
+        "logoUrl": "https://menubezglutenu.pl/wp-content/uploads/2019/12/logo-1-134x134.jpg",
+        "imageUrls": [
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-2-kopiowanie-1291x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-kopiowanie-1080x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-hummus-chleb-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-6-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-2-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-3-kopiowanie-811x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-5-kopiowanie-788x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1166-2-kopiowanie-969x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1188-kopiowanie-1021x1000.jpg"
+        ],
         "position": {
             "latitude": 40.713829,
             "longitude": -73.989667
@@ -39,6 +95,20 @@
         "id": 5,
         "name": "Test Name 5",
         "address": "Test Address 5",
+        "logoUrl": "https://menubezglutenu.pl/wp-content/uploads/2019/12/logo-1-134x134.jpg",
+        "imageUrls": [
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-2-kopiowanie-1291x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-jedzenie-kopiowanie-1080x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-hummus-chleb-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-6-kopiowanie-810x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-2-kopiowanie-1600x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-3-kopiowanie-811x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/u-krolika-lokal-5-kopiowanie-788x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1166-2-kopiowanie-969x1000.jpg",
+            "https://menubezglutenu.pl/wp-content/uploads/2019/12/img_1188-kopiowanie-1021x1000.jpg"
+        ],
         "position": {
             "latitude": 40.713829,
             "longitude": -73.989667
